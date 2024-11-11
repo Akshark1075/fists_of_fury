@@ -1,0 +1,1 @@
+Created an interactive Web XR application for seat booking using three.js. The application simulates the immersive experience of watching a game in virtual reality, allowing users to visualize their view before booking a seat
